@@ -2,6 +2,7 @@
 \usepackage{miniprojectreportcommands}
 \usepackage{lipsum}
 \usepackage{graphicx}
+\usepackage{listing}
 
 \defstudentnameone{John Doe I}
 \defstudentregnoone{1200XXXXX}
@@ -54,11 +55,12 @@
 	\chapter{Source Code}
 	\section{Sample Class}
 	Purpose of the sample class is to show a sample python syntax. To add more keywords or words to emphasize, add them to line 78 and 80 in the file named miniprojectreport.cls\\Also, this\cite{7457930} is a dummy citation.\\
-\begin{python}
+\begin{lstlisting}
+# This is a sample code
 class SampleClass:
     def __init__(self):
         self.x = 10	
-\end{python}
+\end{lstlisting}
 	
 	\newpage
 	\chapter{Snapshots}
