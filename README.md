@@ -32,4 +32,4 @@ Most of the commands used here are defined in the file `miniprojectreportcommand
 * `\bibliography` - Generates the References section
 
 
-For more info on $\LaTeX$ and more of its built in commands, click [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+For more info on LaTeX and more of its built in commands, click [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
