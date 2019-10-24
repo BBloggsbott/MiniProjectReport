@@ -26,6 +26,10 @@
 	tabsize=4
 }
 
+\newenvironment{hyphenatedcode}
+ {\par\hyphenpenalty=50 \exhyphenpenalty 50 }
+ {\par}
+
 \usepackage{geometry}
 \geometry{
 	a4paper,
