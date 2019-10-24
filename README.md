@@ -27,10 +27,6 @@ Most of the commands used here are defined in the file `miniprojectreportcommand
 * `\acknowledgement` - Creates the acknowledgement page with the content you pass as argument.
 * `\fakesection` - Creates an entry in the Table of contents
 
-
-### Environment
-* `python` - Provides syntax highlighting for python
-
 ### Built in Commands of Latex
 * `\tableofcontents` - Automatically generates the table of contents page
 * `\bibliography` - Generates the References section
