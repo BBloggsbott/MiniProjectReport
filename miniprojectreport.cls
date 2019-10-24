@@ -34,6 +34,8 @@
 	bottom=1in,
 	right=1in
 }
+\usepackage[none]{hyphenat}
+\sloppy
 \usepackage{setspace}
 \usepackage{tocloft}
 \usepackage{lipsum}
