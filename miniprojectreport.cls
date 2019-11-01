@@ -22,7 +22,7 @@
 	commentstyle=\color{dkgreen},
 	stringstyle=\color{mauve},
 	breaklines=true,
-	breakatwhitespace=true,
+	breakatwhitespace=false,
 	tabsize=4
 }
 
